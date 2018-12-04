@@ -1,0 +1,6 @@
+## WSD Ignore File ##
+__pycache__/
+/mysite/.secret
+
+# Django stuff:
+db.sqlite3
